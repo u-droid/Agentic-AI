@@ -18,3 +18,8 @@ jupyter
 ipywidgets
 langchain-groq
 langchain-core
+fastapi
+uvicorn
+langserve
+sse-starlette
+streamlit
