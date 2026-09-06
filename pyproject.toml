@@ -31,6 +31,7 @@ dependencies = [
     "langserve>=0.3.3",
     "sse-starlette>=3.4.10",
     "streamlit>=1.63.0",
+    "typing-extensions>=4.16.0",
 ]
 
 [project.scripts]
